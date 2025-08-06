@@ -1,4 +1,4 @@
-# Drone-Script
+# Drone-Script {QBCore Support Added}
 Spectator style drone script for FiveM servers. Works with both **ESX** and **QBCore**.
 
 ## Installation
