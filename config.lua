@@ -11,3 +11,5 @@ Config.StartHeight        = 10.0  -- initial spawn height
 Config.BatteryDrainPerSec = 0.5   -- battery consumption per second
 Config.AutoReturnBattery  = 15    -- battery % threshold to auto-return
 Config.AutoReturnSignal   = 15    -- signal % threshold to auto-return
+
+
